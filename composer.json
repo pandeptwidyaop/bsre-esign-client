@@ -1,0 +1,19 @@
+{
+    "name": "pandeptwidyaop/bsre-esign-client",
+    "description": "Code Wrapper For E-Sign Client BSrE",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pandeptwidyaop\\BsreEsignClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pande",
+            "email": "widya.oktapratama@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
